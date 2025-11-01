@@ -1,0 +1,1 @@
+Test Loss: 0.3521, Test Cost: 2.4688, Test Accuracy: 0.8845
